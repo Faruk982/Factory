@@ -9,5 +9,6 @@ public class Main {
         Shape shape2 = shapeFactory.getShape("RECTANGLE");
         if(shape2!=null)shape2.draw();
         //System.out.printf("Hello and welcome!");
+        //this is master 123
     }
 }
